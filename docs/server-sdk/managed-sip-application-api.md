@@ -1,11 +1,12 @@
-﻿---
-title: Managed SIP Application API
+---
+title: Learn Managed SIP Applications with Lync Server 2013 SDK
 TOCTitle: Managed SIP Application API
 ms:assetid: 9e04a0e2-3b43-4114-acd9-71d64dc4fc2f
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn439068(v=office.15)
 ms:contentKeyID: 57096227
 ms.date: 02/11/2016
 mtps_version: v=office.15
+description: Explore Microsoft Lync Server 2013 SDK managed SIP applications. Understand application manifest, MSPL script, .NET Framework application, and more. Enhance your knowledge on SIP Forwarding and Forking Proxy Applications.
 ---
 
 # Managed SIP Application API

@@ -1,5 +1,5 @@
-﻿---
-title: Creating a Lync bot
+---
+title: Guide to Creating a Lync Bot in Microsoft Unified Communications
 TOCTitle: Creating a Lync bot
 ms:assetid: bede739a-ec48-4e6d-b52c-acbf04b245bb
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454840(v=office.15)
@@ -10,6 +10,7 @@ dev_langs:
 - powershell
 - xml
 - csharp
+description: Step-by-step guide to creating a Lync bot using Microsoft Unified Communications Managed API 4.0. Learn to create a trusted application, handle feedback events, and deploy the bot.
 ---
 
 # Creating a Lync bot

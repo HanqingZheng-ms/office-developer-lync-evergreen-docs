@@ -1,5 +1,5 @@
-﻿---
-title: 'How to: Create an application manifest'
+---
+title: Creating Application Manifest for Lync Server 2013
 TOCTitle: 'How to: Create an application manifest'
 ms:assetid: ad200e17-2e8f-44b7-933f-7f0445462acf
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn439077(v=office.15)
@@ -8,6 +8,7 @@ ms.date: 07/24/2014
 mtps_version: v=office.15
 dev_langs:
 - xml
+description: Learn to create an application manifest for Microsoft Lync Server 2013. Understand MSPL script and .NET Framework-based managed SIP applications. Discover saving methods for application manifests.
 ---
 
 # How to: Create an application manifest

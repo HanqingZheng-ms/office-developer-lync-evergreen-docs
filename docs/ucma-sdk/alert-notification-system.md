@@ -1,11 +1,12 @@
-﻿---
-title: Alert notification system
+---
+title: Microsoft UCMA 4.0 Alert Notification System Guide
 TOCTitle: Alert notification system
 ms:assetid: e75d50af-2a7e-4558-bb18-7bcf2c66560f
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn465952(v=office.15)
 ms:contentKeyID: 57102660
 ms.date: 07/25/2014
 mtps_version: v=office.15
+description: Learn about Microsoft's UCMA 4.0 Alert Notification System. Understand its components, call flow, related features, and how it integrates with other platforms.
 ---
 
 # Alert notification system

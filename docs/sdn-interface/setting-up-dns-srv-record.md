@@ -1,11 +1,12 @@
-﻿---
-title: Setting up the DNS SRV record
+---
+title: Guide to Setting up DNS SRV Record for Lync Dialog Listener
 TOCTitle: Setting up DNS SRV record
 ms:assetid: 1dee6627-bd71-46e9-adb8-f2166fd8a97e
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785198(v=office.15)
 ms:contentKeyID: 62952682
 ms.date: 02/16/2015
 mtps_version: v=office.15
+description: Learn how to configure the Lync Dialog Listener to query DNS for the Lync SDN Manager Service location. Includes steps to create SRV records with domain administrator privileges.
 ---
 
 # Setting up the DNS SRV record
