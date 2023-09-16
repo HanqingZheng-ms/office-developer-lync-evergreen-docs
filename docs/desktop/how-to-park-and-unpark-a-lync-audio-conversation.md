@@ -1,5 +1,5 @@
 ---
-title: 'How to: Park and unpark a Lync audio conversation'
+title: Guide to Park and Unpark Lync Audio Conversation
 TOCTitle: 'How to: Park and unpark a Lync audio conversation'
 ms:assetid: 4fcc4bf9-ee96-44c1-b5e6-5ff19944b093
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ937317(v=office.15)
@@ -8,6 +8,7 @@ ms.date: 07/24/2014
 mtps_version: v=office.15
 dev_langs:
 - csharp
+description: Learn how to use Microsoft Lync 2013's call park feature programmatically with SDK. Includes call hold, park, and retrieve a parked conversation.
 ---
 
 # How to: Park and unpark a Lync audio conversation

@@ -1,11 +1,12 @@
 ---
-title: Lync contacts
+title: 'Microsoft Lync 2013: Understanding Contact Features'
 TOCTitle: Lync contacts
 ms:assetid: 3e060b5f-0aa8-4e91-8ff7-e721fc6045f0
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ937300(v=office.15)
 ms:contentKeyID: 50877125
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Explore the classes and enumerations of Microsoft Lync 2013 that encapsulate all attributes of a contact. Learn about finding contacts, contact features, and additional resources.
 ---
 
 # Lync contacts

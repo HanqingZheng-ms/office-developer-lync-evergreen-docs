@@ -1,11 +1,12 @@
-﻿---
-title: Lync 2013 SDK documentation
+---
+title: Microsoft Lync 2013 SDK Documentation for Developers
 TOCTitle: Lync 2013 SDK documentation
 ms:assetid: c46a20f0-2d18-4aa8-b7fb-980fd88135c9
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ933180(v=office.15)
 ms:contentKeyID: 50877319
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Explore the comprehensive guide to Microsoft Lync 2013 SDK. Ideal for developers building custom applications or embedding collaboration functionality in LOB applications.
 ---
 
 # Lync 2013 SDK documentation

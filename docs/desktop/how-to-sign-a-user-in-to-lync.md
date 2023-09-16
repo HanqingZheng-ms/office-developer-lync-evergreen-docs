@@ -1,5 +1,5 @@
 ---
-title: 'How to: Sign a user in to Lync'
+title: Guide to User Sign in Process for Lync 2013 SDK
 TOCTitle: 'How to: Sign a user in to Lync'
 ms:assetid: 3eda49e1-6826-4bd9-a11d-dd1b62ae7957
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn391637(v=office.15)
@@ -8,6 +8,7 @@ ms.date: 07/24/2014
 mtps_version: v=office.15
 dev_langs:
 - csharp
+description: Understand the Lync 2013 SDK sign in process, conditions that prevent sign in, and how to recover. Learn about UI suppression, state transitions, and handling sign in failures.
 ---
 
 # How to: Sign a user in to Lync

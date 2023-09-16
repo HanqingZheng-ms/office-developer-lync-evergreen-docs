@@ -1,5 +1,5 @@
 ---
-title: 'How to: Start a Lync IM conversation'
+title: Guide to Start a Lync IM Conversation using SDK
 TOCTitle: 'How to: Start a Lync IM conversation'
 ms:assetid: 356b4dba-139f-48bf-a8d5-df445524d998
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ937298(v=office.15)
@@ -8,6 +8,7 @@ ms.date: 07/24/2014
 mtps_version: v=office.15
 dev_langs:
 - csharp
+description: Learn how to use Microsoft Lync 2013 SDK to start a conversation, invite a user, and send the first instant message. Includes prerequisites, core concepts, and code examples.
 ---
 
 # How to: Start a Lync IM conversation
