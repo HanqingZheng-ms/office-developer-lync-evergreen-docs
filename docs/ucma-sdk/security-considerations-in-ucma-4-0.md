@@ -1,12 +1,12 @@
 ---
-title: Security considerations in UCMA 4.0
+title: UCMA 4.0 SDK Security Recommendations
 TOCTitle: Security considerations in UCMA 4.0
 ms:assetid: 5d87e5b2-9d95-4d37-98c7-c5e58a6247e9
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466093(v=office.15)
 ms:contentKeyID: 57103188
 ms.date: 07/25/2014
 mtps_version: v=office.15
-description: "Discover Security Considerations in UCMA 4.0: Learn best practices for Lync & Lync Server 2013 with Microsoft's UCMA SDK. Enhance app safety today."
+description: Explore essential security recommendations for developers using UCMA 4.0 SDK. Learn about TLS usage, authentication, trusted server contact, and more.
 ---
 
 # Security considerations in UCMA 4.0
