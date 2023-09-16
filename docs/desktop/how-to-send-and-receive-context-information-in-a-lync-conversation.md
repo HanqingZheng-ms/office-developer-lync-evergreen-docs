@@ -1,5 +1,5 @@
 ---
-title: 'How to: Send and receive context information in a Lync conversation'
+title: Guide to Send and Receive Context Info in Lync Conversation
 TOCTitle: 'How to: Send and receive context information in a conversation'
 ms:assetid: ea5c0019-4d54-43cd-9025-d5a9a6a7f305
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ933248(v=office.15)
@@ -9,6 +9,7 @@ mtps_version: v=office.15
 dev_langs:
 - csharp
 - xaml
+description: Learn how to use Microsoft Lync 2013 SDK to send and receive contextual data in a Lync 2013 conversation. Includes video tutorials, prerequisites, and core concepts.
 ---
 
 # How to: Send and receive context information in a Lync conversation

@@ -1,5 +1,5 @@
 ---
-title: 'How to: Update and publish user telephone numbers in Lync SDK'
+title: Update and Publish User Telephone Numbers in Lync SDK
 TOCTitle: 'How to: Update and publish user telephone numbers'
 ms:assetid: 078b5dd3-69f1-4c1e-bea8-91ba9bb54c12
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ937252(v=office.15)
@@ -9,6 +9,7 @@ mtps_version: v=office.15
 dev_langs:
 - csharp
 - xaml
+description: Learn how to update and publish user telephone numbers using Microsoft Lync 2013 SDK. Includes steps to build a custom UI, add, remove, and change numbers.
 ---
 
 # How to: Update and publish user telephone numbers in Lync SDK

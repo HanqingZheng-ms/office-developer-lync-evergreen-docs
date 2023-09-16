@@ -1,11 +1,12 @@
 ---
-title: Lync contact groups
+title: Understanding Microsoft Lync 2013 Contact Groups
 TOCTitle: Lync contact groups
 ms:assetid: 6592af78-d163-4f46-9774-44fc4febf36c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ933068(v=office.15)
 ms:contentKeyID: 50877198
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Learn about Microsoft Lync 2013 contact groups, their types, and how to programmatically access them using the Lync 2013 SDK. Discover the rules governing group operations.
 ---
 
 # Lync contact groups

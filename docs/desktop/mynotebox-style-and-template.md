@@ -1,11 +1,12 @@
 ---
-title: MyNoteBox style and template
+title: MyNoteBox Control Style and Template Guide
 TOCTitle: MyNoteBox style and template
 ms:assetid: 455d5856-6391-4f42-8b09-542ffcc79633
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ937324(v=office.15)
 ms:contentKeyID: 50877157
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Learn about the unique style and template for the MyNoteBox control. Modify the default ControlTemplate for a unique appearance. Includes information on parts and default style.
 ---
 
 # MyNoteBox style and template

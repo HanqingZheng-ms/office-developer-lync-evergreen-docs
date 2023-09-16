@@ -1,11 +1,12 @@
 ---
-title: Meeting lobby management
+title: Mastering Meeting Lobby Management with Lync 2013 SDK
 TOCTitle: Meeting lobby management
 ms:assetid: 6d642a48-e298-4405-9001-5be2a085ad77
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ933072(v=office.15)
 ms:contentKeyID: 50877200
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Learn about meet-now meeting access types in Microsoft Lync 2013 SDK. Understand the role of a meeting lobby and how to manage admission types for effective meeting control.
 ---
 
 # Meeting lobby management
