@@ -1,5 +1,5 @@
 ---
-title: 'How to: Admit or deny people in the meeting lobby'
+title: Manage Meeting Lobby Access with Microsoft Lync 2013 SDK
 TOCTitle: 'How to: Admit or deny people in the meeting lobby'
 ms:assetid: 29641e62-9ecf-46ea-b628-61c4d7c64a8e
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ937280(v=office.15)
@@ -9,6 +9,7 @@ mtps_version: v=office.15
 dev_langs:
 - csharp
 - xaml
+description: Learn how to programmatically admit or deny user admission to a Microsoft Lync 2013 meet-now meeting from the meeting lobby using Microsoft Lync 2013 SDK. Includes code examples.
 ---
 
 # How to: Admit or deny people in the meeting lobby

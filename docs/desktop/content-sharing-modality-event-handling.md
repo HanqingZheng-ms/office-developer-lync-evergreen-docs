@@ -1,5 +1,5 @@
 ---
-title: Content sharing modality event handling
+title: Mastering UI Responsiveness in Lync 2013 API Content Sharing
 TOCTitle: Content sharing modality event handling
 ms:assetid: 3250839b-e7c1-4750-b244-dfa7c839aa63
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ937294(v=office.15)
@@ -8,6 +8,7 @@ ms.date: 07/24/2014
 mtps_version: v=office.15
 dev_langs:
 - csharp
+description: Learn how to make your application UI responsive to events raised by Microsoft Lync 2013 API content sharing modality in Lync 2013 conversations. Understand content sharing modality events.
 ---
 
 # Content sharing modality event handling

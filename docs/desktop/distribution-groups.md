@@ -1,11 +1,12 @@
 ---
-title: Distribution groups
+title: Learn About Lync 2013 Distribution Groups and SDK
 TOCTitle: Distribution groups
 ms:assetid: 1a363768-c89e-41e1-a80a-c88799730ef7
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ937268(v=office.15)
 ms:contentKeyID: 50877086
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Explore the Lync 2013 distribution group, its classes, events, and how to programmatically iterate on contacts and nested groups using Microsoft Lync 2013 SDK.
 ---
 
 # Distribution groups

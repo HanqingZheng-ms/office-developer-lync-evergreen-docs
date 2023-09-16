@@ -1,5 +1,5 @@
 ---
-title: 'How to: Add or remove a person from a contact list'
+title: Managing Contacts in Microsoft Lync 2013 API
 TOCTitle: 'How to: Add or remove a person from a contact list'
 ms:assetid: 8089489e-b27a-46e7-a84c-6071b408e1cb
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ933106(v=office.15)
@@ -9,6 +9,7 @@ mtps_version: v=office.15
 dev_langs:
 - csharp
 - xaml
+description: Learn how to add or remove contacts from a Microsoft Lync 2013 userâ€™s contact list using the Lync 2013 API. Includes code examples and prerequisites.
 ---
 
 # How to: Add or remove a person from a contact list

@@ -1,11 +1,12 @@
 ---
-title: Conversation manager
+title: Microsoft Lync 2013 SDK ConversationManager Class Guide
 TOCTitle: Conversation manager
 ms:assetid: 5833aa16-a953-4806-92ff-c380d6eafb01
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ937321(v=office.15)
 ms:contentKeyID: 50877152
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Learn about the Microsoft Lync 2013 SDK ConversationManager class. Discover how to start new conversations, join online meetings, and handle conversation events.
 ---
 
 # Conversation manager

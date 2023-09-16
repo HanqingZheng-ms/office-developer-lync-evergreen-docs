@@ -1,5 +1,5 @@
 ---
-title: ContactSearchResultList control
+title: Microsoft Lync 2013 ContactSearchResultList Control Guide
 TOCTitle: ContactSearchResultList control
 ms:assetid: 1d454543-46e0-483a-915a-6b5cd188796b
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ945538(v=office.15)
@@ -8,6 +8,7 @@ ms.date: 07/24/2014
 mtps_version: v=office.15
 dev_langs:
 - xaml
+description: Learn about the properties of the Microsoft Lync 2013 ContactSearchResultList control. Understand how to use and bind it with the ContactSearchInputBox control.
 ---
 
 # ContactSearchResultList control
