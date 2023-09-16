@@ -1,11 +1,12 @@
-﻿---
-title: Configuring LSM using command prompt
+---
+title: Guide to Configuring LSM via Command Prompt
 TOCTitle: Configuring LSM using command prompt
 ms:assetid: 3720e38a-b444-4a90-9a1b-cad39292ffdf
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785211(v=office.15)
 ms:contentKeyID: 62952691
 ms.date: 02/16/2015
 mtps_version: v=office.15
+description: Learn how to configure LSM using command prompt. This guide includes steps to get and set limits, replay sequences, modify settings, and more.
 ---
 
 # Configuring LSM using command prompt

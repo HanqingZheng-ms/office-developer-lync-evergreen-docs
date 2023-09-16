@@ -1,5 +1,5 @@
-﻿---
-title: Configuring LDL execution options
+---
+title: Configuring LDL Execution Options for Lync
 TOCTitle: Configuring LDL execution options
 ms:assetid: 1f21ded1-e0e7-4f62-aa76-7c88b1a224ee
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785208(v=office.15)
@@ -8,6 +8,7 @@ ms.date: 02/16/2015
 mtps_version: v=office.15
 dev_langs:
 - xml
+description: Learn how to modify LDL execution options in the LyncDialogListener.exe.config file for Lync 2010, 2013, and Lync Server. Includes steps to locate LSM and retrieve configuration settings.
 ---
 
 # Configuring LDL execution options

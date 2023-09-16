@@ -1,5 +1,5 @@
-﻿---
-title: Configuring LSM using the configuration file
+---
+title: Configuring LSM via SDNManager.exe.config File
 TOCTitle: Configuring LSM using the configuration file
 ms:assetid: 91a71769-df75-49a6-b305-8d202f6a5d12
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785210(v=office.15)
@@ -8,6 +8,7 @@ ms.date: 02/16/2015
 mtps_version: v=office.15
 dev_langs:
 - xml
+description: Learn how to configure LSM using the SDNManager.exe.config file located in the default installation directory. Understand operational modes, database connections, and the impact of changes.
 ---
 
 # Configuring LSM using the configuration file

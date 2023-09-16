@@ -1,12 +1,12 @@
 ---
-title: Introducing Enhanced Presence
+title: Introducing Enhanced Presence in Lync 2013
 TOCTitle: Introducing Enhanced Presence
 ms:assetid: 625a191d-12f0-4af7-bf9d-6d33710e919c
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn454618(v=office.15)
 ms:contentKeyID: 57092867
 ms.date: 07/24/2014
 mtps_version: v=office.15
-description: "Discover Enhanced Presence in Microsoft Lync 2013: availability status, user control, and custom features for improved communication."
+description: Learn about Enhanced Presence in Lync 2013, its application scenarios, and how it improves real-time communication by providing detailed user availability status.
 ---
 
 # Introducing Enhanced Presence
