@@ -1,5 +1,5 @@
 ---
-title: state/availability element
+title: Lync 2013 Availability Status Guide
 TOCTitle: state/availability element
 ms:assetid: 01e355b5-6888-45be-8506-8c04089c91f1
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn438967(v=office.15)
@@ -8,7 +8,7 @@ ms.date: 07/24/2014
 mtps_version: v=office.15
 dev_langs:
 - xml
-description: "Learn Microsoft Lync Schema: Discover State Availability Element, its attributes, and availability number ranges for user status. Boost your Lync knowledge."
+description: Learn about the availability status in Lync 2013. Understand the availability number ranges and what they indicate about a user's presence status.
 ---
 
 # state/availability element

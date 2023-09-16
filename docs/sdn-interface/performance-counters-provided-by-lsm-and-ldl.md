@@ -1,11 +1,12 @@
-﻿---
-title: Performance Counters provided by LSM and LDL
+---
+title: Performance Counters by LSM and LDL for Lync Servers
 TOCTitle: Performance Counters provided by LSM and LDL
 ms:assetid: 66a0c1f3-32a4-4e59-9646-824f28d332d0
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn785223(v=office.15)
 ms:contentKeyID: 62952706
 ms.date: 02/16/2015
 mtps_version: v=office.15
+description: Explore the performance counters provided by LSM and LDL for Lync 2010, Lync 2013, Lync Server 2010, and Lync Server 2013. Understand message processing, delivery times, and more.
 ---
 
 # Performance Counters provided by LSM and LDL

@@ -1,11 +1,12 @@
 ---
-title: Room manager
+title: Microsoft Lync 2013 SDK Room Manager Overview
 TOCTitle: Room manager
 ms:assetid: 6ff10e45-3171-48b3-8a0b-a75d646bb814
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ933081(v=office.15)
 ms:contentKeyID: 50877210
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Learn about the Microsoft Lync 2013 Persistent Chat room manager class. Discover how to access chat rooms, query by room title or URI, and manage followed rooms.
 ---
 
 # Room manager
