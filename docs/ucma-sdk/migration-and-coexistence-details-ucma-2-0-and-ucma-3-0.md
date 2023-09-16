@@ -1,11 +1,12 @@
-﻿---
-title: Migration and coexistence details (UCMA 2.0 and UCMA 3.0)
+---
+title: UCMA 2.0 and 3.0 Migration and Coexistence Details
 TOCTitle: Migration and coexistence details (UCMA 2.0 and UCMA 3.0)
 ms:assetid: 969fa41d-6941-4327-9fd3-5879153b7977
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466121(v=office.15)
 ms:contentKeyID: 57103414
 ms.date: 07/25/2014
 mtps_version: v=office.15
+description: Detailed guide on migrating applications from previous UCMA versions to current versions, including information on using WMI and PowerShell. Learn about different scenarios and steps for successful migration.
 ---
 
 # Migration and coexistence details (UCMA 2.0 and UCMA 3.0)
