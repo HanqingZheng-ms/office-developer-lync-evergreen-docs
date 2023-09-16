@@ -1,11 +1,12 @@
-﻿---
-title: 'How to: Configure garbage collection on the server'
+---
+title: Configure Garbage Collection on Lync Server 2013
 TOCTitle: 'How to: Configure garbage collection on the server'
 ms:assetid: 522d932d-6f76-4184-a67e-116ee0a83b69
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn439085(v=office.15)
 ms:contentKeyID: 57096242
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Learn how to optimize performance by configuring garbage collection on Microsoft Lync Server 2013. Discover the benefits of server GC over workstation GC.
 ---
 
 # How to: Configure garbage collection on the server

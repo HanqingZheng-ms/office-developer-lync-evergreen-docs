@@ -1,5 +1,5 @@
-﻿---
-title: Call leg scenarios
+---
+title: Guide to Lync 2013 BackToBackCall Scenarios
 TOCTitle: Call leg scenarios
 ms:assetid: f3eced9e-fb4e-4be8-8125-6cb46e164ca9
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466021(v=office.15)
@@ -8,6 +8,7 @@ ms.date: 07/25/2014
 mtps_version: v=office.15
 dev_langs:
 - csharp
+description: Explore the use of BackToBackCall class in Lync 2013. Learn about Incoming-Idle and Click-to-call scenarios, and how to establish calls using UCMA 4.0.
 ---
 
 # Call leg scenarios

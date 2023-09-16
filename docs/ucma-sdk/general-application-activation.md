@@ -1,11 +1,12 @@
-﻿---
-title: General application activation
+---
+title: Guide to Lync Server 2013 Trusted Application Activation
 TOCTitle: General application activation
 ms:assetid: 029f3c80-dea6-4338-b622-b9f1338d2432
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn466115(v=office.15)
 ms:contentKeyID: 57103409
 ms.date: 07/25/2014
 mtps_version: v=office.15
+description: Detailed guide on activating trusted applications on Lync Server 2013. Learn how to create a pool of trusted application computers, request or import a certificate, add a trusted service port, and more.
 ---
 
 # General application activation

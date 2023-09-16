@@ -1,11 +1,12 @@
-﻿---
-title: Create a UCWA Windows Store app project
+---
+title: Creating UCWA Windows Store App Project with Visual Studio
 TOCTitle: Create a UCWA Windows Store app project
 ms:assetid: 2c080512-8a01-4739-98da-93e2d9f8d839
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Dn551188(v=office.15)
 ms:contentKeyID: 60829952
 ms.date: 07/25/2014
 mtps_version: v=office.15
+description: Step by step guide to create a UCWA Windows Store app project using Visual Studio. Learn to add UCWA-specific programming tasks to your application project.
 ---
 
 # Create a UCWA Windows Store app project
