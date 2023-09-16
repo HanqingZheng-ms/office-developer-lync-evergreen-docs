@@ -1,11 +1,12 @@
 ---
-title: Get started with Persistent Chat
+title: Guide to Lync 2013 Persistent Chat Programming Concepts
 TOCTitle: Persistent Chat
 ms:assetid: 98b3c720-5693-4354-bc96-0ef14f369151
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ933122(v=office.15)
 ms:contentKeyID: 50877257
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Learn about Microsoft Lync 2013 SDK and Persistent Chat features. Understand how to create chat room applications, read and post messages, and work with chat room add-ins.
 ---
 
 # Get started with Persistent Chat

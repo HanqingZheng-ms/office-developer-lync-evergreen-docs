@@ -1,11 +1,12 @@
 ---
-title: Conversation modalities
+title: Understanding Microsoft Lync 2013 SDK Conversation Modalities
 TOCTitle: Conversation modalities
 ms:assetid: 9e6fc969-9c15-42ab-96c5-7df87c2e95ee
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ933146(v=office.15)
 ms:contentKeyID: 50877282
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Learn about the communication modes in Microsoft Lync 2013 SDK conversations, including desktop sharing, program sharing, and more. Understand modality operations and conversation modality owners.
 ---
 
 # Conversation modalities

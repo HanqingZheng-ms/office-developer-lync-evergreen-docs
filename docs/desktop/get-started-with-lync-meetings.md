@@ -1,11 +1,12 @@
 ---
-title: Get started with Lync meetings
+title: Master Lync 2013 Meeting Lifecycle Management
 TOCTitle: Lync meetings
 ms:assetid: 99fca176-e2b5-494a-8b2b-fa378d2b7a1e
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ933123(v=office.15)
 ms:contentKeyID: 50877263
 ms.date: 07/24/2014
 mtps_version: v=office.15
+description: Learn to manage Lync 2013 meetings with our comprehensive guide. Discover how to start, control, and end meetings, manage participants, and share content effectively.
 ---
 
 # Get started with Lync meetings

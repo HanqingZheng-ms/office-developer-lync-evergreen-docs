@@ -1,5 +1,5 @@
 ---
-title: 'How to: Add, rename, or remove a custom group'
+title: Manage Custom Groups in Microsoft Lync 2013 SDK
 TOCTitle: 'How to: Add, rename, or remove a custom group'
 ms:assetid: 2ecbf5aa-3dfb-4726-a9c0-38363bf8ca43
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/JJ937292(v=office.15)
@@ -9,6 +9,7 @@ mtps_version: v=office.15
 dev_langs:
 - xaml
 - csharp
+description: Learn how to add, remove, or rename custom groups in Microsoft Lync 2013 using the SDK. Understand prerequisites, core concepts, and get code examples.
 ---
 
 # How to: Add, rename, or remove a custom group
